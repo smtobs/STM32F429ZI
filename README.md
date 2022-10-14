@@ -1,2 +1,2 @@
 # STM32F429ZI
-STM32 Basic example
+STM32 공부자료
